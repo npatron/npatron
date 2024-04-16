@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @npatron
 - 👀 I’m interested in Full Stack or Front end Development
-- 🌱 I’m currently learning React
+- 🌱 I recently learned React (in Typescript)
 - 📫 How to reach me my email patron.nick(AT)gmail.com
 
 <!---
